@@ -13,4 +13,4 @@ This is a CLI program for managing tasks.
 - done
 
 ### Examples of program usage:
-
+- `ts-node main.ts add "Some description of task"`
