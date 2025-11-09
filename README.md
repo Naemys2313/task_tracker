@@ -1,5 +1,7 @@
 This is a CLI program for managing tasks.
 
+The project was completed according to this technical specification: https://roadmap.sh/projects/task-tracker
+
 ### Supported functions:
 - adding
 - updating description
